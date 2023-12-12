@@ -1,7 +1,6 @@
-# Simba
+# Simba Backend
 
-## App Link
-https://simba-finance.netlify.app/
+## This is a project as at 2021, it is one of my old projects
 
 ## Build Setup
 
